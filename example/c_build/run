@@ -1,6 +1,4 @@
 #!/usr/bin/env python3
-#mv "$1"/code "$1"/code.c
-#clang "$1"/code.c -o "$1"/a.out -Qunused-arguments -lm -O2 -DONLINE_JUDGE -std=c17 -fmax-errors=255
 import argparse
 import os
 import subprocess
